@@ -1,4 +1,5 @@
 # Credit-Card-Complaints
+# Tableau Dashboard
 
 Overview
 This repository contains a Tableau dashboard that visualizes the analysis of credit card complaints across various states in the USA. The dashboard aims to provide insights into the frequency, nature, and resolution of complaints, helping stakeholders understand trends and areas for improvement.
